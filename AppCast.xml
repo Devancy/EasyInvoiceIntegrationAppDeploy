@@ -1,0 +1,6 @@
+﻿<item>
+  <version>1.0.0.0</version>
+  <url>https://github.com/Devancy/EasyInvoiceIntegrationAppDeploy/raw/master/Release.zip</url>
+  <mandatory mode="ForcedDownload">true</mandatory>
+  <args>/upgraded</args>
+</item>
